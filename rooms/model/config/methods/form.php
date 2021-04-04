@@ -29,6 +29,7 @@ $methods = [
 		    [
 				'name' => 'email',
 				'source' => 'p',
+			        'pattern' => 'email',
 				'required' => false,
 				'default' => ' ',
 
